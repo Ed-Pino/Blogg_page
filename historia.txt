@@ -7,4 +7,7 @@ hoy el ceo de platzi
 hoy hablaremos de su historia
 
 
-este es el quinto commit
+este es el quinto commit viernes 9 y7 pm
+
+hay otro cambio prueba git add
+
