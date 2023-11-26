@@ -38,3 +38,10 @@ body
     font-size: 0.8em;
 }
 
+img 
+{
+    width: 300px;
+    height: 280;
+    align-content: center;
+    border: 3px solid blue;
+}
