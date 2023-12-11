@@ -11,11 +11,27 @@ body
 
 #cabecera
 {
-    background: rgb(255, 94, 0);
+    background-color: rgb(32, 32, 131);
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.8);
     color: aliceblue;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#cabecera #logo
+{
+    width: 60px;
+    height:800;
+    align-content: center;
+    border: 1px solid rgb(252, 252, 253);
+    font-size: 46px;
+    padding: 0.6%;
 }
 
 #container
@@ -32,17 +48,10 @@ body
     font-size: 20px;
 }
 
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
 img 
 {
     width: 300px;
     height: 280;
     align-content: center;
-    border: 3px solid blue;
+    border: 3px solid #0000ff;
 }
