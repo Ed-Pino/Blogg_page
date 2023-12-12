@@ -12,3 +12,4 @@
 * Todos los comandos git
 * Flujo de trabajo en git hub
 * Verdadero amor por las buenas practicas
+* con ejemplos en windows y mac y linux
