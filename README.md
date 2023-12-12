@@ -11,4 +11,10 @@
 ## En este curso vemos de todo
 * Todos los comandos git
 * Flujo de trabajo en git hub
+<<<<<<< HEAD
 * Verdadero amor por las buenas practicas
+=======
+* Verdadero amor por las buenas practicas
+* con ejemplos en windows y mac y linux
+* Para todas las edades
+>>>>>>> readme-mejorado
