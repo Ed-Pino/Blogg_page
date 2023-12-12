@@ -7,3 +7,8 @@
 - Support identification, interpretation, fliter of the HTML tags;
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+
+## En este curso vemos de todo
+* Todos los comandos git
+* Flujo de trabajo en git hub
+* Verdadero amor por las buenas practicas
